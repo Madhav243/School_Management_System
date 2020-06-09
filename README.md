@@ -4,7 +4,7 @@ This is my Mini Core Java project
 In this awt,swing libraray of java is used for front end and MySql is used for Database storage.
 
 
-To intsall it in your local machine , first you have to download jdk,netbeans,xampp(for sql file).
+To intsall it in your local machine , first you have to download jdk SE,netbeans,xampp(for sql file).
 
 After installing all the above software you should download repository zip file and extract it and all files in one folder.
 
